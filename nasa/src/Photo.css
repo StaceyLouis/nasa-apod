@@ -1,0 +1,21 @@
+.photo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#main-photo{
+    width: 500px;
+    height: 500px;
+    border: 20px solid rgb(20, 73, 116);
+    border-radius: 20px;
+}
+
+h2{
+    margin-top: 30px;
+}
+#start{
+ margin-bottom: 20px;
+}
